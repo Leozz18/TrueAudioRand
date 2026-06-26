@@ -1,0 +1,18 @@
+# Build artifacts
+*.o
+*.a
+*.exe
+main_test
+TrueAudioRand.exe
+
+# Generated output
+random_samples.txt
+histogram.png
+scatter.png
+
+# IDE / OS
+.vs/
+.vscode/
+*.user
+Thumbs.db
+Desktop.ini
